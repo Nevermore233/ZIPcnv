@@ -47,7 +47,7 @@ python3 data_processing.py -config my.config
 
 Note: Setting the baseline requires at least 50 normal samples; otherwise, a warning will be issued.
 
-## Step 2: CNV Pre-detection with CUSUM Control Chart
+## Step 2: CNV detection using dynamic sliding windows 
 ZIPcnv employs a CUSUM control chart-based model for CNV detection.
 
 **Usage**
