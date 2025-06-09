@@ -1,6 +1,6 @@
 # ZIPcnv: accurate and efficient inference of copy number variations from shallow whole-genome sequencing
 
-
+![Figure 1](https://github.com/Nevermore233/ZIPcnv/tree/main/Figures/Figure1.tif)
 
 ## Abstract
 Motivation: Shallow whole-genome sequencing (sWGS), a rapid and cost-effective sequencing technology, has gradually been widely adopted for CNV analyses. However, with genome‑wide coverage of only 0.1–5X, sWGS data display a pronounced zero‑inflation phenomenon—a large fraction of loci has zero sequencing reads. Zero‑inflation causes read counts to fluctuate by several‑fold between adjacent windows. As a result, random upward blips in coverage can be misinterpreted as copy‑number gains (false positives), and true deletions often become indistinguishable from pervasive zero‑coverage noise. In addition, existing CNV detection tools developed for sWGS data often struggle to adapt across different CNV sizes. These combined effects severely constrain the accuracy of CNV inference. 
