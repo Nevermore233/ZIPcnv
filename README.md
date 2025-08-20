@@ -69,4 +69,4 @@ Example:
 python3 zip_caller.py -config my.config -o data/zipcall-output -w 3000 -k 0.3
 ```
 
-ZIPcnv is an intermediate step of PGcnv. For a more detailed introduction to ZIPcnv, please refer to PGcnv (https://github.com/Nevermore233/PGcnv).
+ZIPcnv is an intermediate step of PGcnv. For a more detailed introduction to ZIPcnv, please refer to PangenomeX (https://github.com/Nevermore233/PangenomeX).
